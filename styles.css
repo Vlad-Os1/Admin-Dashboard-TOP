@@ -175,7 +175,6 @@ img, .icon a svg {
   grid-row: 2 / 3;
   display: grid;
   grid-template-columns: 3fr 1fr;
-  grid-template-rows: ;
   padding: 1.5rem 1rem;
   gap: 25px;
 }
